@@ -5,6 +5,7 @@ const Logo = () => {
   return (
     <View>
       <Text style={styles.textLogo}>TNI</Text>
+      <Text>Information Technology</Text>
     </View>
   )
 }
