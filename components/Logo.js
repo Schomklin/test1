@@ -5,7 +5,7 @@ const Logo = () => {
   return (
     <View>
       <Text style={styles.textLogo}>TNI</Text>
-      <Text>Information Technology</Text>
+      
     </View>
   )
 }
@@ -14,7 +14,7 @@ export default Logo
 
 const styles = StyleSheet.create({
     textLogo:{
-        color:"red",
+        color:"blue",
         fontSize:40
     }
 })
